@@ -1,0 +1,151 @@
+location_id,region,location_type,opened_date
+LOC001,Delta,Furniture Store,2024-09-08
+LOC002,Alexandria,Furniture Store,2025-02-17
+LOC003,Canal,Mall Kiosk,2025-01-09
+LOC004,Delta,Electronics Store,2023-05-15
+LOC005,Greater Cairo,Mall Kiosk,2025-04-06
+LOC006,Upper Egypt,Electronics Store,2024-06-20
+LOC007,Delta,Mall Kiosk,2023-11-20
+LOC008,Canal,Electronics Store,2024-05-29
+LOC009,Greater Cairo,Electronics Store,2025-08-24
+LOC010,Alexandria,Furniture Store,2025-05-07
+LOC011,Greater Cairo,Mall Kiosk,2025-04-13
+LOC012,Upper Egypt,Furniture Store,2024-04-07
+LOC013,Delta,Mall Kiosk,2025-02-23
+LOC014,Canal,Mall Kiosk,2024-01-21
+LOC015,Alexandria,Electronics Store,2024-11-17
+LOC016,Greater Cairo,Electronics Store,2024-10-01
+LOC017,Alexandria,Furniture Store,2023-09-07
+LOC018,Greater Cairo,Furniture Store,2023-09-24
+LOC019,Canal,Mall Kiosk,2023-03-03
+LOC020,Delta,Furniture Store,2023-05-20
+LOC021,Delta,Mall Kiosk,2024-03-09
+LOC022,Greater Cairo,Electronics Store,2024-04-22
+LOC023,Upper Egypt,Mall Kiosk,2023-06-15
+LOC024,Upper Egypt,Furniture Store,2024-02-21
+LOC025,Delta,Mall Kiosk,2024-08-27
+LOC026,Greater Cairo,Mall Kiosk,2023-08-21
+LOC027,Alexandria,Electronics Store,2023-12-05
+LOC028,Greater Cairo,Furniture Store,2024-01-03
+LOC029,Greater Cairo,Furniture Store,2024-05-20
+LOC030,Delta,Electronics Store,2024-01-02
+LOC031,Delta,Furniture Store,2025-01-06
+LOC032,Upper Egypt,Furniture Store,2023-11-24
+LOC033,Greater Cairo,Electronics Store,2024-03-09
+LOC034,Greater Cairo,Mall Kiosk,2024-01-15
+LOC035,Alexandria,Furniture Store,2023-07-02
+LOC036,Greater Cairo,Electronics Store,2024-11-16
+LOC037,Greater Cairo,Electronics Store,2023-08-24
+LOC038,Alexandria,Mall Kiosk,2023-10-24
+LOC039,Greater Cairo,Electronics Store,2025-03-03
+LOC040,Delta,Mall Kiosk,2025-08-06
+LOC041,Alexandria,Furniture Store,2024-11-01
+LOC042,Canal,Mall Kiosk,2025-07-05
+LOC043,Delta,Mall Kiosk,2025-05-04
+LOC044,Greater Cairo,Furniture Store,2024-04-25
+LOC045,Canal,Mall Kiosk,2025-02-09
+LOC046,Canal,Mall Kiosk,2023-11-25
+LOC047,Greater Cairo,Electronics Store,2024-04-05
+LOC048,Greater Cairo,Furniture Store,2024-06-19
+LOC049,Delta,Mall Kiosk,2025-08-18
+LOC050,Greater Cairo,Mall Kiosk,2025-04-28
+LOC051,Greater Cairo,Furniture Store,2024-05-04
+LOC052,Greater Cairo,Furniture Store,2024-10-14
+LOC053,Canal,Electronics Store,2023-07-22
+LOC054,Delta,Mall Kiosk,2025-03-15
+LOC055,Delta,Mall Kiosk,2024-07-07
+LOC056,Canal,Mall Kiosk,2024-06-16
+LOC057,Alexandria,Mall Kiosk,2025-02-05
+LOC058,Alexandria,Electronics Store,2024-09-24
+LOC059,Greater Cairo,Mall Kiosk,2023-03-14
+LOC060,Greater Cairo,Electronics Store,2023-10-16
+LOC061,Delta,Electronics Store,2023-06-26
+LOC062,Alexandria,Electronics Store,2025-01-04
+LOC063,Alexandria,Mall Kiosk,2023-02-05
+LOC064,Delta,Furniture Store,2023-07-22
+LOC065,Delta,Electronics Store,2024-08-20
+LOC066,Alexandria,Electronics Store,2024-11-25
+LOC067,Alexandria,Mall Kiosk,2024-05-18
+LOC068,Greater Cairo,Mall Kiosk,2025-05-10
+LOC069,Greater Cairo,Furniture Store,2025-07-07
+LOC070,Alexandria,Electronics Store,2023-05-13
+LOC071,Greater Cairo,Mall Kiosk,2025-08-10
+LOC072,Alexandria,Electronics Store,2024-09-06
+LOC073,Canal,Electronics Store,2024-09-28
+LOC074,Greater Cairo,Furniture Store,2023-04-06
+LOC075,Greater Cairo,Mall Kiosk,2024-09-13
+LOC076,Greater Cairo,Furniture Store,2024-12-26
+LOC077,Greater Cairo,Mall Kiosk,2024-08-03
+LOC078,Delta,Electronics Store,2023-03-26
+LOC079,Alexandria,Electronics Store,2024-06-07
+LOC080,Canal,Mall Kiosk,2025-07-24
+LOC081,Delta,Mall Kiosk,2024-12-24
+LOC082,Alexandria,Electronics Store,2023-05-18
+LOC083,Canal,Furniture Store,2025-08-17
+LOC084,Greater Cairo,Electronics Store,2025-08-16
+LOC085,Greater Cairo,Furniture Store,2023-06-19
+LOC086,Greater Cairo,Furniture Store,2025-03-11
+LOC087,Delta,Electronics Store,2024-02-11
+LOC088,Alexandria,Furniture Store,2024-08-16
+LOC089,Greater Cairo,Mall Kiosk,2024-03-21
+LOC090,Alexandria,Mall Kiosk,2025-02-21
+LOC091,Greater Cairo,Furniture Store,2025-09-23
+LOC092,Delta,Furniture Store,2025-03-06
+LOC093,Alexandria,Mall Kiosk,2025-07-20
+LOC094,Greater Cairo,Electronics Store,2025-08-04
+LOC095,Greater Cairo,Electronics Store,2023-04-01
+LOC096,Delta,Furniture Store,2023-09-11
+LOC097,Greater Cairo,Electronics Store,2024-12-22
+LOC098,Greater Cairo,Electronics Store,2024-08-13
+LOC099,Greater Cairo,Electronics Store,2023-02-20
+LOC100,Upper Egypt,Electronics Store,2023-04-06
+LOC101,Upper Egypt,Electronics Store,2024-06-04
+LOC102,Delta,Furniture Store,2024-09-08
+LOC103,Greater Cairo,Electronics Store,2023-06-17
+LOC104,Upper Egypt,Mall Kiosk,2023-06-21
+LOC105,Delta,Mall Kiosk,2023-05-10
+LOC106,Delta,Electronics Store,2024-07-18
+LOC107,Alexandria,Furniture Store,2023-01-08
+LOC108,Greater Cairo,Mall Kiosk,2024-07-26
+LOC109,Greater Cairo,Mall Kiosk,2024-04-20
+LOC110,Upper Egypt,Electronics Store,2024-04-10
+LOC111,Alexandria,Mall Kiosk,2024-11-10
+LOC112,Greater Cairo,Furniture Store,2024-06-06
+LOC113,Greater Cairo,Mall Kiosk,2024-12-28
+LOC114,Alexandria,Mall Kiosk,2025-02-02
+LOC115,Greater Cairo,Furniture Store,2025-07-09
+LOC116,Canal,Mall Kiosk,2025-03-10
+LOC117,Delta,Mall Kiosk,2024-06-01
+LOC118,Delta,Mall Kiosk,2024-05-07
+LOC119,Alexandria,Mall Kiosk,2023-08-24
+LOC120,Delta,Mall Kiosk,2024-08-22
+LOC121,Delta,Mall Kiosk,2023-05-20
+LOC122,Delta,Mall Kiosk,2025-07-20
+LOC123,Greater Cairo,Mall Kiosk,2025-04-25
+LOC124,Alexandria,Electronics Store,2023-04-30
+LOC125,Greater Cairo,Electronics Store,2025-02-24
+LOC126,Alexandria,Electronics Store,2023-04-28
+LOC127,Greater Cairo,Mall Kiosk,2024-12-22
+LOC128,Greater Cairo,Electronics Store,2023-03-29
+LOC129,Greater Cairo,Furniture Store,2024-05-03
+LOC130,Delta,Furniture Store,2024-10-19
+LOC131,Greater Cairo,Mall Kiosk,2024-12-29
+LOC132,Upper Egypt,Mall Kiosk,2024-02-23
+LOC133,Delta,Mall Kiosk,2025-07-10
+LOC134,Greater Cairo,Mall Kiosk,2025-02-13
+LOC135,Delta,Electronics Store,2023-07-28
+LOC136,Greater Cairo,Electronics Store,2024-11-02
+LOC137,Upper Egypt,Mall Kiosk,2024-12-31
+LOC138,Alexandria,Electronics Store,2023-11-30
+LOC139,Canal,Electronics Store,2025-01-08
+LOC140,Greater Cairo,Mall Kiosk,2025-06-17
+LOC141,Alexandria,Furniture Store,2025-03-28
+LOC142,Alexandria,Mall Kiosk,2025-02-01
+LOC143,Upper Egypt,Furniture Store,2024-09-26
+LOC144,Alexandria,Mall Kiosk,2023-09-28
+LOC145,Alexandria,Furniture Store,2025-03-06
+LOC146,Greater Cairo,Furniture Store,2023-12-31
+LOC147,Greater Cairo,Furniture Store,2024-06-16
+LOC148,Alexandria,Furniture Store,2023-11-11
+LOC149,Alexandria,Furniture Store,2023-11-10
+LOC150,Greater Cairo,Electronics Store,2023-06-07
